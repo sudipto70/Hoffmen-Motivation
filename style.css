@@ -1,0 +1,1292 @@
+.root{
+
+
+margin-left: 16%;
+font-size: 28px!important;
+
+}
+
+
+.root1{
+
+margin-left: 240px;
+
+
+}
+
+@media (min-width: 987px) and (max-width: 1100px) {
+
+
+    .root{
+
+
+        margin-left: -1%;
+        font-size: 23px;
+        
+        }
+        
+        
+        .root1{
+        
+        margin-left: 45px;
+        
+        
+        }
+
+
+
+
+ }
+
+
+@media (min-width: 1101px) and (max-width: 1350px) {
+
+    .root{
+
+
+        margin-left: 6%;
+        font-size: 23px;
+        
+        }
+        
+        
+        .root1{
+        
+        margin-left: 99px;
+        
+        
+        }
+
+
+
+
+
+
+
+}
+
+
+.reel{
+
+height: 400px;
+width: 100%;
+background-color: black;
+
+
+
+}
+
+
+.reel2{
+
+height: 300px;
+width: 60%;
+position: absolute;
+margin-left: 20%;
+margin-top: 50px;
+
+
+
+}
+
+
+
+.roll2{
+
+margin-left: 32%;
+font-family: 'Open Sans', sans-serif;
+font-size: 23px;
+margin-top: 45px;
+
+
+}
+
+
+.roll4{
+
+margin-left: 65%;
+
+
+}
+
+
+.roll5{
+
+height: 123px;
+width: 900px;
+display: flex;
+flex-direction: row;
+margin-left: 5px;
+position: absolute;
+margin-top: 12px;
+
+
+}
+
+
+
+.roll6{
+
+    height: 123px;
+    width: 300px;
+    background-color: aqua!important;
+    border-radius: 15px;
+    
+    }
+
+    
+.roll7{
+
+    height: 123px;
+    width: 300px;
+    background-color: #00BEBE;
+    border-radius: 15px;
+
+    
+    }
+
+    
+.roll8{
+
+    height: 123px;
+    width: 300px;
+    background-color: aquamarine;
+    border-radius: 15px;
+
+    
+    }
+
+
+    .roll9{
+
+margin-top: 61px;
+margin-left: 50px;
+font-size: 25px;
+font-family: 'Open Sans', sans-serif;
+color: white;
+transform: translate(0%,-62%);
+
+
+    }
+
+
+    .roll11{
+
+height: 323px;
+width: 296px;
+
+
+
+    }
+
+
+
+    
+    .roll13{
+
+        margin-top: 61px;
+        margin-left: 50px;
+        font-size: 25px;
+        font-family: 'Open Sans', sans-serif;
+        color: black;
+        transform: translate(15%,-62%);
+
+        
+            }
+        
+
+    .roll{
+
+display: flex!important;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 45px;
+
+
+    }
+
+    .roll12{
+
+height: 268px;
+width: 89px;
+background-color: #DCFFEC;
+position: absolute;
+margin-top: -255px;
+margin-left: 5%;
+opacity: 52.5%;
+
+
+
+
+    }
+
+
+    @media (min-width: 0px) and (max-width: 889px) {
+ 
+
+
+        .roll{
+
+            display: flex!important;
+            flex-direction: column;
+            justify-content: space-evenly;
+            margin-top: 45px;
+            align-items: center;
+            
+            
+                }
+
+
+                .roll5{
+
+                    display: flex!important;
+                    flex-direction: column;
+                    position: relative;
+                    margin-left: -407px;
+                    
+
+                }
+  
+    
+.roll6{
+
+transform: translate(163%,426%);
+
+
+}
+
+ 
+.roll7{
+
+    transform: translate(163%,446%);
+    
+    
+    }
+
+     
+.roll8{
+
+    transform: translate(163%,469%);
+    
+    
+    }
+
+    .roll12{
+
+        margin-top: -404px;
+
+
+
+
+    }
+
+    .roll2{
+
+margin-left: 81px;
+
+    }
+
+
+
+    
+    }
+
+
+
+    @media (min-width: 890px) and (max-width: 1090px) {
+
+
+
+.roll5{
+
+margin-left: -409px;
+margin-top: 45px;
+position: relative;
+display: flex;
+flex-direction: column;
+
+
+
+}
+
+   
+.roll6{
+
+    transform: translate(163%,152%);
+    
+    
+    }
+    
+     
+    .roll7{
+    
+        transform: translate(163%,168%);
+        
+        
+        }
+    
+         
+    .roll8{
+    
+        transform: translate(163%,189%);
+        
+        
+        }
+
+
+        .roll12{
+
+margin-top: -447px;
+
+
+        }
+
+
+
+    }
+
+
+    @media (min-width: 1090px) and (max-width: 1400px) {
+    
+    
+    
+    .roll5{
+
+margin-left: -116px;
+margin-top: 16px;
+
+
+
+
+    }
+ 
+    
+    
+    }
+
+
+
+.zone{
+
+
+margin-top: 186px;
+
+
+}
+
+
+
+    .zone1{
+
+height: 365px;
+width: 100%;
+
+
+    }
+
+    .zone2{
+
+text-align: center;
+margin-top: -245px;
+color: white;
+font-family: 'Open Sans', sans-serif;
+
+
+
+    }
+
+
+    
+    .zone3{
+
+        text-align: center;
+color: white;
+font-size: 36px;
+        
+        
+            }
+
+
+
+            @media (min-width: 0px) and (max-width: 576px) {
+
+
+.zone{
+
+
+margin-top: 669px;
+
+}
+
+
+.zone1{
+
+height: 879px;
+
+
+
+}
+
+.zone2{
+
+margin-top: -679px;
+
+
+}
+
+
+
+
+            }
+
+
+
+            @media (min-width: 577px) and (max-width: 786px) {
+
+
+.zone{
+
+margin-top: 589px
+
+
+
+}
+
+.zone1{
+
+height: 608px;
+
+
+}
+
+
+.zone2{
+
+margin-top: -483px;
+
+
+}
+
+
+            
+            
+            }
+
+
+
+            
+            @media (min-width: 787px) and (max-width: 1100px) {
+
+
+                .zone{
+                
+                margin-top: 589px
+                
+                
+                
+                }
+                
+                .zone1{
+                
+                height: 608px;
+                
+                
+                }
+                
+                
+                .zone2{
+                
+                margin-top: -483px;
+                
+                
+                }
+                
+                
+                            
+                            
+                            }
+
+
+
+
+
+
+
+
+.epic1{
+
+
+margin-top: 155px;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-size: 42px;
+
+
+
+}                            
+
+
+
+                            .epic3{
+
+
+height: 185px!important;
+width: 100%;
+margin-top: 89px;
+
+
+
+                            }
+
+
+
+                            @media (min-width: 0px) and (max-width: 576px) {
+                      
+.epic1{
+
+
+margin-top: 383px;
+
+
+}
+
+
+                            }
+
+
+
+                            @media (min-width: 577px) and (max-width: 786px) {
+                      
+                                .epic1{
+                                
+                                
+                                margin-top: 273px;
+                                
+                                
+                                }
+                                
+                                
+                                                            }
+
+
+
+                                                            @media (min-width: 787px) and (max-width: 1000px) {
+                      
+                                                                .epic1{
+                                                                
+                                                                
+                                                                margin-top: 273px;
+                                                                
+                                                                
+                                                                }
+                                                                
+                                                                
+                                                                                            }
+                                                                
+                                
+                                
+
+
+
+
+                                
+
+
+                            @media (min-width: 1000px) and (max-width: 1100px) {
+
+
+                   
+                                .epic1{
+
+
+                                    margin-top: 304px;
+                                    
+                                    
+                                    }
+
+
+
+                            }
+
+
+
+
+
+
+     .sap3{
+height: 149px;
+width: 98px;
+margin-top: 36px;
+
+
+
+     } 
+     
+     
+     .sap5{
+
+height: 312px;
+width: 445px;
+
+
+
+     }
+
+
+     .sap{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 89px;
+
+
+
+     }
+
+
+     @media (min-width: 0px) and (max-width: 786px) {
+
+
+
+        .sap{
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            margin-top: 89px;
+            align-items: center;
+            
+            
+                 }
+
+
+                 .sap5{
+
+margin-top: 69px;
+
+
+                 }
+
+
+     }
+
+
+     .rest2{
+
+height: 296px;
+width: 523px;
+margin-top: 89px;
+
+
+
+     }
+
+     .rest3{
+
+margin-left: 115px;
+margin-top: -196px;
+display: flex;
+flex-direction: row;
+
+     }
+
+     .rest4{
+
+margin-left: 24px;
+color: white;
+
+     }
+
+
+
+.rest6{
+
+    font-family: 'Montserrat', sans-serif;
+font-size: 19px;
+color: white;
+margin-left: 122px;
+
+
+}
+
+
+
+
+     .rest7{
+
+font-size: 30px;
+font-family: 'Open Sans', sans-serif;
+color: white;
+margin-left: 96px;
+
+
+     }
+
+
+     .rest9{
+
+
+height: 45px;
+width: 344px;
+color: black;
+border-radius: 14px;
+margin-left: 38px;
+
+     }
+
+
+     .rest10{
+
+width: 365px!important;
+height: 336px!important;
+margin-top: 47px;
+margin-right: 224px;
+
+     }
+
+
+
+
+     .rest17{
+
+height: 30px;
+width: 64px;
+background-color: black;
+font-size: 12px;
+border-radius: 50px;
+color: white;
+margin-left: 65px;
+margin-top: -41px;
+position: absolute;
+
+
+
+     }
+
+     .rest18{
+
+font-size: 15px;
+margin-right: 88px;
+margin-top: 8px;
+
+
+     }
+
+     .rest19{
+
+float: left;
+
+
+     }
+
+     .rest14{
+
+float: left;
+padding-left: 12px;
+
+
+     }
+
+     .rest20{
+
+float: left;
+padding-left: 12px;
+
+
+     }
+
+     
+     .rest21{
+
+        float: left;
+        padding-left: 12px;
+
+        
+             }
+
+             .rest22{
+
+                border-radius: 16px;
+margin-top: 14px;
+
+
+             }
+
+             .rest23{
+
+margin-left: -89px;
+
+             }
+
+             
+             .rest24{
+
+                margin-left: 42px;
+                margin-top: -27px;
+                
+                             }
+
+
+                             .rest25{
+
+height: 46px;
+width: 242px!important;
+background-color: #1D9BF0;
+border-radius: 50px;
+color: white;
+
+
+                             }
+
+
+                             .rest26{
+
+                                margin-left: 192px;
+                                margin-top: -27px;
+                                
+                                             }
+
+
+                                             .rest{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-top: 65px;
+
+
+
+                                             }
+
+
+
+
+                                             @media (min-width: 0px) and (max-width: 576px) {
+                             
+                                                .rest{
+                                                    display: flex;
+                                                    flex-direction: column;
+                                                    justify-content: space-between;
+                                                    margin-top: 65px;
+
+
+
+
+
+                                             }
+
+                                             .rest1{
+
+margin-left: -36px!important;
+
+
+                                             }
+
+                                            }
+
+
+
+                                            @media (min-width: 577px) and (max-width: 1100px) {
+                             
+                                                .rest{
+                                                    display: flex;
+                                                    flex-direction: column;
+                                                    justify-content: space-between;
+                                                    margin-top: 65px;
+align-items: center;
+
+
+
+
+                                             }
+
+
+.rest10{
+
+margin-left: 30%;
+
+
+}
+
+
+
+
+                                            }
+
+
+                                            @media (min-width: 1101px) and (max-width: 1300px) {
+
+
+                                                .rest{
+                                                    display: flex;
+                                                    flex-direction: row;
+                                                    justify-content: space-between;
+                                                    margin-top: 65px;
+align-items: center;
+
+
+
+
+                                             }
+
+                                            }
+
+
+
+
+
+
+.rock6{
+
+height: 496px!important;
+width: 100%;
+background: black!important;
+z-index: 1;
+position:  absolute;
+opacity: 52%;
+
+
+}
+
+
+.rock{
+
+
+display: flex!important;
+flex-direction: row!important;
+width: 100%;
+margin-top: -467px;
+z-index: -1;
+
+}
+
+.rock2{
+
+width: 100%!important;
+height: 467px!important;
+
+
+}
+
+.rock4{
+
+text-align: center;
+font-size: 28px;
+margin-top: 126px;
+color: white;
+font-family: 'Open Sans', sans-serif;
+
+
+
+}
+
+.rock5{
+
+
+text-align: center;
+font-size: 20px;
+color: white;
+font-family: 'Open Sans', sans-serif;
+
+
+
+}
+
+.rock7{
+
+height: 53px;
+width: 380px;
+background-color: #006C9A;
+color: white;
+border-radius: 15px;
+margin-left: 36%;
+
+}
+
+.stack3{
+
+
+margin-top: 103px;
+
+
+}
+
+
+@media (min-width: 0px) and (max-width: 576px) {
+
+
+.rock7{
+
+margin-left: 44px;
+
+
+}
+
+
+
+
+
+}
+
+
+@media (min-width: 577px) and (max-width: 786px) {
+
+
+    .rock7{
+    
+    margin-left: 97px;
+    
+    
+    }
+    
+    
+    
+    
+    
+    }
+
+
+
+
+
+.aew{
+
+margin-top: 45px;
+
+}
+
+
+
+
+    .stone{
+
+background-image: url(file:///C:/Users/Sudipto/Desktop/Web%20Architect/Project%20Designer/Hoffmen%20Motivation/image/8649%201.png);
+height: 225px;
+width: 100%;
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+
+
+    }
+
+
+.stone2{
+
+    font-family: 'Open Sans', sans-serif;
+font-size: 32px;
+
+
+
+}
+
+
+
+
+    .stone4{
+
+
+font-size: 15px;
+color: black;
+font-family: 'Open Sans', sans-serif;
+
+
+
+    }
+
+    .stone6{
+
+display: flex;
+flex-direction: row;
+
+
+
+    }
+    
+   
+    
+    .stone7{
+
+        margin-left: 32px;
+
+
+
+    }
+
+    .stone9{
+
+height: 60px;
+width: 371px;
+background-color: #006C9A;
+color: white;
+font-size: 18px;
+border-radius: 16px;
+font-family: 'Montserrat', sans-serif;
+
+
+    }
+
+.stone8{
+
+margin-top: 32px;
+
+
+
+}
+
+
+
+
+    .stone1{
+
+margin-top: 61px;
+
+
+    }
+
+    
+    .stone3{
+
+        margin-top: 63px;
+        
+            }
+
+            
+    .stone5{
+
+        margin-top: 63px;
+        
+            }
+
+            
+    .stone10{
+
+        margin-top: 63px;
+        
+            }
+
+
+
+
+            @media (min-width: 0px) and (max-width: 786px) {
+
+
+                .stone{
+
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    margin-top: 425px;
+                    height: 800px;
+
+
+
+                    
+                        }
+
+.stone1{
+
+margin-top: 120px;
+
+
+}
+
+
+
+
+
+            }
+
+
+
+            @media (min-width: 787px) and (max-width: 896px) {
+
+
+
+                .stone{
+
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    margin-top: 325px;
+                    height: 800px;
+
+
+
+                    
+                        }
+
+
+
+
+
+            }
+
+
+            @media (min-width: 897px) and (max-width: 987px) {
+
+
+                .stone{
+
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    margin-top: 208px;
+                    
+
+
+
+                    
+                        }
+
+
+
+
+            }
+
+
+            
+            @media (min-width: 988px) and (max-width: 1200px) {
+
+
+                .stone{
+
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    margin-top: 208px;
+                    
+
+
+
+                    
+                        }
+
+
+
+
+            }
+
+
+            
+            @media (min-width: 1200px) and (max-width: 1500px) {
+
+
+                .stone{
+
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    margin-top: 188px;
+                    
+
+
+
+                    
+                        }
+
+
+
+
+            }

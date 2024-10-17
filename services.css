@@ -1,0 +1,526 @@
+.root{
+
+
+    margin-left: 16%;
+    font-size: 28px!important;
+    
+    }
+    
+    
+    .root1{
+    
+    margin-left: 240px;
+    
+    
+    }
+    
+    @media (min-width: 987px) and (max-width: 1100px) {
+    
+    
+        .root{
+    
+    
+            margin-left: -1%;
+            font-size: 23px;
+            
+            }
+            
+            
+            .root1{
+            
+            margin-left: 45px;
+            
+            
+            }
+    
+    
+    
+    
+     }
+    
+    
+    @media (min-width: 1101px) and (max-width: 1350px) {
+    
+        .root{
+    
+    
+            margin-left: 6%;
+            font-size: 23px;
+            
+            }
+            
+            
+            .root1{
+            
+            margin-left: 99px;
+            
+            
+            }
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+
+
+    .rope2{
+
+        font-family: 'Montserrat', sans-serif;
+font-size: 27px;
+text-align: center;
+
+    }
+
+
+    .rope3{
+
+        font-family: 'Open Sans', sans-serif;
+font-size: 12px;
+text-align: center;
+
+    }
+
+     .rope{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 45px;
+
+
+    }
+
+    @media (min-width: 0px) and (max-width: 986px) {
+    
+    
+    
+        .rope{
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            margin-top: 45px;
+            align-items: center;
+            
+                }
+    
+    .rope5{
+
+width: 100%;
+
+
+    }
+    
+    
+    }
+
+
+    .apex2{
+
+
+height: 50px;
+width: 459px;
+background-color: black;
+color: white;
+border-radius: 30px 30px 0 0 ;
+text-align: center;
+padding-top: 10px;
+font-size: 22px;
+
+    }
+
+
+    .apex{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 50px;
+
+
+    }
+
+
+
+
+    @media (min-width: 0px) and (max-width: 986px) {
+    
+    
+        .apex{
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            margin-top: 50px;
+            
+            
+                }
+
+                .apex1{
+
+margin-top: 52px;
+
+
+                }
+    
+    
+    
+    
+    }
+
+
+    .mask2{
+
+width: 500px;
+height: 400px;
+
+
+
+
+    }
+
+
+
+
+    .mask4{
+
+font-size: 20px;
+font-family: 'Montserrat', sans-serif;
+
+
+    }
+
+    .mask5{
+
+        font-family: 'Montserrat', sans-serif;
+
+
+
+    }
+
+
+    .mask7{
+
+height: 4px;
+width: 545px;
+background-color: black;
+
+
+
+    }
+
+.mask8{
+
+margin-top: 12px;
+
+
+}
+
+
+.mask9{
+
+height: 45px;
+width: 224px;
+background-color: #006C9A;
+color: white;
+border-radius: 50px;
+margin-top: 12px;
+margin-left: 120px;
+
+
+}
+
+
+
+
+.mask{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 45px;
+
+
+}
+
+
+@media (min-width: 0px) and (max-width: 1100px) {
+
+
+    .mask{
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        margin-top: 45px;
+        align-items: center;
+        
+        
+        }
+
+        .mask3{
+
+width: 100%;
+
+        }
+
+
+        .mask7{
+
+            width: 100%;
+            
+                    }
+            
+
+
+}
+
+
+
+
+
+.aew{
+
+    margin-top: 45px;
+    
+    }
+    
+    
+    
+    
+        .stone{
+    
+    background-image: url(file:///C:/Users/Sudipto/Desktop/Web%20Architect/Project%20Designer/Hoffmen%20Motivation/image/8649%201.png);
+    height: 225px;
+    width: 100%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    
+        }
+    
+    
+    .stone2{
+    
+        font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    
+    
+    
+    }
+    
+    
+    
+    
+        .stone4{
+    
+    
+    font-size: 15px;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+    
+        }
+    
+        .stone6{
+    
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+        }
+        
+       
+        
+        .stone7{
+    
+            margin-left: 32px;
+    
+    
+    
+        }
+    
+        .stone9{
+    
+    height: 60px;
+    width: 371px;
+    background-color: #006C9A;
+    color: white;
+    font-size: 18px;
+    border-radius: 16px;
+    font-family: 'Montserrat', sans-serif;
+    
+    
+        }
+    
+    .stone8{
+    
+    margin-top: 32px;
+    
+    
+    
+    }
+    
+    
+    
+    
+        .stone1{
+    
+    margin-top: 61px;
+    
+    
+        }
+    
+        
+        .stone3{
+    
+            margin-top: 63px;
+            
+                }
+    
+                
+        .stone5{
+    
+            margin-top: 63px;
+            
+                }
+    
+                
+        .stone10{
+    
+            margin-top: 63px;
+            
+                }
+    
+    
+    
+    
+                @media (min-width: 0px) and (max-width: 786px) {
+    
+    
+                    .stone{
+    
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        margin-top: 425px;
+                        height: 800px;
+    
+    
+    
+                        
+                            }
+    
+    .stone1{
+    
+    margin-top: 120px;
+    
+    
+    }
+    
+    
+    
+    
+    
+                }
+    
+    
+    
+                @media (min-width: 787px) and (max-width: 896px) {
+    
+    
+    
+                    .stone{
+    
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        margin-top: 325px;
+                        height: 800px;
+    
+    
+    
+                        
+                            }
+    
+    
+    
+    
+    
+                }
+    
+    
+                @media (min-width: 897px) and (max-width: 987px) {
+    
+    
+                    .stone{
+    
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        margin-top: 208px;
+                        
+    
+    
+    
+                        
+                            }
+    
+    
+    
+    
+                }
+    
+    
+                
+                @media (min-width: 988px) and (max-width: 1200px) {
+    
+    
+                    .stone{
+    
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        margin-top: 208px;
+                        
+    
+    
+    
+                        
+                            }
+    
+    
+    
+    
+                }
+    
+    
+                
+                @media (min-width: 1200px) and (max-width: 1500px) {
+    
+    
+                    .stone{
+    
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        margin-top: 188px;
+                        
+    
+    
+    
+                        
+                            }
+    
+    
+    
+    
+                }

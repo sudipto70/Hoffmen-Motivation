@@ -1,0 +1,1561 @@
+.root{
+
+
+    margin-left: 40%;
+    font-size: 38px!important;
+    
+    }
+    
+    
+    .root1{
+    
+    margin-left: 260px;
+    
+    
+    }
+    
+    @media (min-width: 987px) and (max-width: 1100px) {
+    
+    
+        .root{
+    
+    
+            margin-left: 8%;
+            font-size: 23px;
+            
+            }
+            
+            
+            .root1{
+            
+            margin-left: 45px;
+            
+            
+            }
+    
+    
+    
+    
+     }
+    
+    
+    @media (min-width: 1101px) and (max-width: 1350px) {
+    
+        .root{
+    
+    
+            margin-left: 12%;
+            font-size: 23px;
+            
+            }
+            
+            
+            .root1{
+            
+            margin-left: 99px;
+            
+            
+            }
+    
+    
+    
+    
+    
+    
+    
+    }
+
+
+    .top1{
+
+        font-family: 'Montserrat', sans-serif;
+text-align: center;
+
+
+
+    }
+
+    .top2{
+
+        font-family: 'Montserrat', sans-serif;
+text-align: center;
+
+
+
+    }
+
+    .top3{
+
+        font-family: 'Montserrat', sans-serif;
+text-align: center;
+
+
+
+    }
+
+    .top4{
+
+background-color: white!important;
+margin-left: 44%;
+width: 200px;
+
+
+    }
+
+
+    .dropdown-toggle{
+
+color: blue!important;
+
+
+    }
+
+    #top5{
+
+height: 150px;
+width: 600px;
+padding-bottom: 82px;
+padding-left: 12px;
+border-radius: 15px;
+margin-left: 30%;
+margin-top: 42px;
+
+
+
+
+    }
+
+    #top6{
+
+margin-left: 123%;
+width: 325px;
+height: 58px;
+border-radius: 15px;
+padding-left: 15px;
+
+
+
+    }
+
+    
+    #top7{
+
+      
+margin-left: 142%;
+width: 325px;
+height: 58px;
+border-radius: 15px;
+padding-left: 15px;
+
+
+        
+        
+            }
+
+
+            .top9{
+
+display: flex;
+flex-direction: row;
+
+
+
+
+            }
+
+            #top10{
+
+height: 58px;
+width: 527px;
+margin-top: 45px;
+border-radius: 15px;
+margin-left: 32%;
+padding-left: 15px;
+
+            }
+
+           
+
+
+
+            @media (min-width: 0px) and (max-width: 576px) {
+
+.tip{
+
+width: 100%;
+margin-left: -226px;
+
+
+
+}
+
+
+.top1{
+
+margin-left: 76%;
+
+
+}
+
+
+.top2{
+
+    margin-left: 76%;
+    
+    
+    }
+
+    
+.top3{
+
+    margin-left: 76%;
+    
+    
+    }
+
+
+.top4{
+
+left: 50%;
+right: 50%;
+transform: translate(-39%,8%);
+margin-left: 76%;
+
+}
+
+#top5{
+
+left: 50%;
+right: 50%;
+transform: translate(2%,-6%);
+width: 100%;
+margin-left: 45%;
+
+
+}
+
+
+#top6{
+
+
+    left: 50%;
+    right: 50%;
+    transform: translate(-10%,-6%);
+width: 111%;
+
+}
+
+
+#top7{
+
+
+
+    left: 50%;
+    right: 50%;
+    transform: translate(-8%,-6%);
+width: 111%;
+
+}
+
+#top10{
+
+
+    left: 50%;
+    right: 50%;
+    transform: translate(14%,-6%);
+width: 100%;
+
+}
+
+
+
+            }
+
+
+
+            @media (min-width: 577px) and (max-width: 634px) {
+            
+                .tip{
+                
+                    width: 100%;
+                    margin-left: -226px;
+                    
+                    
+                    
+                    }
+                    
+                    
+                    .top1{
+                    
+                    margin-left: 76%;
+                    
+                    
+                    }
+                    
+                    
+                    .top2{
+                    
+                        margin-left: 76%;
+                        
+                        
+                        }
+                    
+                        
+                    .top3{
+                    
+                        margin-left: 76%;
+                        
+                        
+                        }
+                    
+                    
+                    .top4{
+                    
+                    left: 50%;
+                    right: 50%;
+                    transform: translate(-39%,8%);
+                    margin-left: 76%;
+                    
+                    }
+                    
+                    #top5{
+                    
+                    left: 50%;
+                    right: 50%;
+                    transform: translate(8%,-6%);
+                    width: 100%;
+                    margin-left: 32%;
+                    
+                    
+                    }
+                    
+                    
+                    #top6{
+                    
+                    
+                        left: 50%;
+                        right: 50%;
+                        transform: translate(-10%,-6%);
+                    width: 111%;
+                    
+                    }
+                    
+                    
+                    #top7{
+                    
+                    
+                    
+                        left: 50%;
+                        right: 50%;
+                        transform: translate(-8%,-6%);
+                    width: 111%;
+                    
+                    }
+                    
+                    #top10{
+                    
+                    
+                        left: 50%;
+                        right: 50%;
+                        transform: translate(8%,-6%);
+                    width: 100%;
+                    
+                    }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            }   
+
+
+
+            @media (min-width: 635px) and (max-width: 676px) {
+            
+                .tip{
+                
+                    width: 100%;
+                    margin-left: -226px;
+                    
+                    
+                    
+                    }
+                    
+                    
+                    .top1{
+                    
+                    margin-left: 76%;
+                    
+                    
+                    }
+                    
+                    
+                    .top2{
+                    
+                        margin-left: 76%;
+                        
+                        
+                        }
+                    
+                        
+                    .top3{
+                    
+                        margin-left: 76%;
+                        
+                        
+                        }
+                    
+                    
+                    .top4{
+                    
+                    left: 50%;
+                    right: 50%;
+                    transform: translate(-39%,8%);
+                    margin-left: 76%;
+                    
+                    }
+                    
+                    #top5{
+                    
+                    left: 50%;
+                    right: 50%;
+                    transform: translate(5%,-6%);
+                    width: 100%;
+                    margin-left: 32%;
+                    
+                    
+                    }
+                    
+                    
+                    #top6{
+                    
+                    
+                        left: 50%;
+                        right: 50%;
+                        transform: translate(-10%,-6%);
+                    width: 111%;
+                    
+                    }
+                    
+                    
+                    #top7{
+                    
+                    
+                    
+                        left: 50%;
+                        right: 50%;
+                        transform: translate(-8%,-6%);
+                    width: 111%;
+                    
+                    }
+                    
+                    #top10{
+                    
+                    
+                        left: 50%;
+                        right: 50%;
+                        transform: translate(5%,-6%);
+                    width: 100%;
+                    
+                    }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            }   
+
+
+
+            @media (min-width: 676px) and (max-width: 776px) {
+            
+                .tip{
+                
+                    width: 100%;
+                    margin-left: -226px;
+                    
+                    
+                    
+                    }
+                    
+                    
+                    .top1{
+                    
+                    margin-left: 76%;
+                    
+                    
+                    }
+                    
+                    
+                    .top2{
+                    
+                        margin-left: 76%;
+                        
+                        
+                        }
+                    
+                        
+                    .top3{
+                    
+                        margin-left: 76%;
+                        
+                        
+                        }
+                    
+                    
+                    .top4{
+                    
+                    left: 50%;
+                    right: 50%;
+                    transform: translate(-39%,8%);
+                    margin-left: 76%;
+                    
+                    }
+                    
+                    #top5{
+                    
+                    left: 50%;
+                    right: 50%;
+                    transform: translate(2%,-6%);
+                    width: 100%;
+                    margin-left: 32%;
+                    
+                    
+                    }
+                    
+                    
+                    #top6{
+                    
+                    
+                        left: 50%;
+                        right: 50%;
+                        transform: translate(-10%,-6%);
+                    width: 111%;
+                    
+                    }
+                    
+                    
+                    #top7{
+                    
+                    
+                    
+                        left: 50%;
+                        right: 50%;
+                        transform: translate(-8%,-6%);
+                    width: 111%;
+                    
+                    }
+                    
+                    #top10{
+                    
+                    
+                        left: 50%;
+                        right: 50%;
+                        transform: translate(2%,-6%);
+                    width: 100%;
+                    
+                    }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            }   
+
+
+
+            @media (min-width: 777px) and (max-width: 850px) {
+
+                .tip{
+                
+                width: 100%;
+                margin-left: -226px;
+                
+                
+                
+                }
+                
+                
+                .top1{
+                
+                margin-left: 76%;
+                
+                
+                }
+                
+                
+                .top2{
+                
+                    margin-left: 76%;
+                    
+                    
+                    }
+                
+                    
+                .top3{
+                
+                    margin-left: 76%;
+                    
+                    
+                    }
+                
+                
+                .top4{
+                
+                left: 50%;
+                right: 50%;
+                transform: translate(-4%,8%);
+                margin-left: 76%;
+                
+                }
+                
+                #top5{
+                
+                left: 50%;
+                right: 50%;
+                transform: translate(-2%,-6%);
+                width: 100%;
+                margin-left: 32%;
+                
+                
+                }
+                
+                
+                #top6{
+                
+                
+                    left: 50%;
+                    right: 50%;
+                    transform: translate(-10%,-6%);
+                width: 111%;
+                
+                }
+                
+                
+                #top7{
+                
+                
+                
+                    left: 50%;
+                    right: 50%;
+                    transform: translate(-8%,-6%);
+                width: 111%;
+                
+                }
+                
+                #top10{
+                
+                
+                    left: 50%;
+                    right: 50%;
+                    transform: translate(-3%,-6%);
+                width: 100%;
+                
+                }
+                
+                
+                
+                            }
+
+
+
+
+                            @media (min-width: 851px) and (max-width: 952px) {
+
+                
+#top6{
+
+margin-left: 40%;
+
+
+}
+
+            
+#top7{
+
+    margin-left: 55%;
+    
+    
+    }
+
+    #top5{
+
+margin-left: 21%;
+
+
+    }
+
+
+
+
+
+                            }
+                
+                
+
+
+                            @media (min-width: 953px) and (max-width: 1100px) {
+
+                
+                                #top6{
+                                
+                                margin-left: 62%;
+                                
+                                
+                                }
+                                
+                                            
+                                #top7{
+                                
+                                    margin-left: 82%;
+                                    
+                                    
+                                    }
+                                
+                                    #top5{
+                                
+                                margin-left: 28%;
+                                
+                                
+                                    }
+                                
+                                
+                                
+                                
+                                
+                                                            }
+                                                
+                                                
+                                                
+                                
+                                
+                                
+                
+                                                            @media (min-width: 1101px) and (max-width: 1200px) {
+
+                
+                                                                #top6{
+                                                                
+                                                                margin-left: 80%;
+                                                                
+                                                                
+                                                                }
+                                                                
+                                                                            
+                                                                #top7{
+                                                                
+                                                                    margin-left: 106%;
+                                                                    
+                                                                    
+                                                                    }
+                                                                
+                                                                    #top5{
+                                                                
+                                                                margin-left: 28%;
+                                                                
+                                                                
+                                                                    }
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                                            }
+                                                                                
+                                                                                
+                                                                                
+                                                                
+             
+                                                                                            @media (min-width: 1201px) and (max-width: 1400px) {
+
+                
+                                                                                                #top6{
+                                                                                                
+                                                                                                margin-left: 80%;
+                                                                                                
+                                                                                                
+                                                                                                }
+                                                                                                
+                                                                                                            
+                                                                                                #top7{
+                                                                                                
+                                                                                                    margin-left: 106%;
+                                                                                                    
+                                                                                                    
+                                                                                                    }
+                                                                                                
+                                                                                                    #top5{
+                                                                                                
+                                                                                                margin-left: 28%;
+                                                                                                
+                                                                                                
+                                                                                                    }
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                                            }
+                                                                                                                           
+                                                                
+
+
+
+
+                                                                                                                            .top11{
+
+                                                                                                                                font-family: 'Montserrat', sans-serif;
+                                                                                                                text-align: center;
+                                                                                                                margin-top: 36px;
+                                                                                                                
+                                                                                                                
+                                                                                                                            }
+                                                                                                                
+
+
+                                                                                                                            #top12{
+
+                                                                                                                                height: 55px;
+                                                                                                                                width: 527px;
+                                                                                                                                margin-top: 45px;
+                                                                                                                                border-radius: 15px;
+                                                                                                                                margin-left: 32%;
+                                                                                                                                padding-left: 445px;
+                                                                                                                                
+                                                                                                                                            }
+                                                                                                                
+                                                                                                                                            .top13{
+                                                                                                                
+                                                                                                                text-align: center;
+                                                                                                                font-size: 10px;
+                                                                                                                font-family: 'Montserrat', sans-serif;
+                                                                                                                margin-top: 8px;
+                                                                                                                
+                                                                                                                
+                                                                                                                                            }
+
+
+@media (min-width: 0px) and (max-width: 986px) {
+
+
+    #top12{
+
+width: 100%!important;
+
+margin-left: 0px!important;
+
+    }
+
+
+
+}
+
+
+
+
+
+
+                            .top14{
+
+                                font-family: 'Montserrat', sans-serif;
+                text-align: center;
+                margin-top: 36px;
+                
+                
+                            }
+
+
+
+                            
+    #top17{
+
+      
+        margin-left: 87%;
+        width: 462px;
+        height: 58px;
+        border-radius: 15px;
+        padding-left: 15px;
+        
+        
+                
+                
+                    }
+
+
+                    #top18{
+
+                        margin-left: 188%;
+                        width: 225px;
+                        height: 58px;
+                        border-radius: 15px;
+                        padding-left: 15px;
+                        
+                        
+                        
+                            }
+
+
+
+                            #to21{
+
+                                margin-left: 123%;
+                                width: 325px;
+                                height: 58px;
+                                border-radius: 15px;
+                                padding-left: 15px;
+                                
+                                
+                                
+                                    }
+                                
+                                    
+                                    #to22{
+                                
+                                      
+                                margin-left: 142%;
+                                width: 325px;
+                                height: 58px;
+                                border-radius: 15px;
+                                padding-left: 15px;
+                                
+                                
+                                        
+                                        
+                                            }
+                                
+                                
+                                            .to19{
+                                
+                                display: flex;
+                                flex-direction: row;
+                                
+                                
+                                
+                                
+                                            }
+
+
+
+        
+        
+                    .top15{
+        
+        display: flex;
+        flex-direction: row;
+        margin-top: 52px;
+        
+        
+        
+                    }
+
+                                          
+    #top21{
+
+      
+        margin-left: 138%;
+        width: 293px;
+        height: 58px;
+        border-radius: 15px;
+        padding-left: 15px;
+        
+        
+                
+                
+                    }
+
+
+                    #top22{
+
+                        margin-left: 141%;
+                        width: 340px;
+                        height: 58px;
+                        border-radius: 15px;
+                        padding-left: 15px;
+                        
+                        
+                        
+                            }
+
+        
+        
+                    .top19{
+        
+        display: flex;
+        flex-direction: row;
+        margin-top: 52px;
+        
+        
+        
+                    }
+
+
+
+                    @media (min-width: 0px) and (max-width: 540px) {
+
+
+
+                        .tip2{
+
+                            width: 100%;
+                            margin-left: -226px;
+                            
+                            
+                            
+                            }
+                            
+
+                        #to21{
+
+
+                            left: 50%;
+                            right: 50%;
+                            transform: translate(7%,-6%);
+                        width: 111%;
+                        
+                        }
+                        
+                        
+                        #to22{
+                        
+                        
+                        
+                            left: 50%;
+                            right: 50%;
+                            transform: translate(2%,-6%);
+                        width: 111%;
+                        
+                        }
+                            
+.top14{
+
+margin-left: 68%;
+
+
+
+}
+
+#top17{
+
+margin-left: 289px;
+width: 55%!important;
+
+}
+
+
+#top18{
+
+margin-left: 171px;
+
+
+
+
+}
+
+
+
+#top22{
+
+    margin-left: 10px!important;
+    width: 498%!important;
+    
+    }
+    
+    
+    #top21{
+    
+    margin-left: 253px!important;
+    
+    
+    
+    
+    }
+    
+
+
+
+                    }
+
+
+
+
+
+                    @media (min-width: 541px) and (max-width: 786px) {
+
+
+
+                        .tip2{
+
+                            width: 100%;
+                            margin-left: -226px;
+                            
+                            
+                            
+                            }
+                            
+
+                        #top6{
+
+
+                            left: 50%;
+                            right: 50%;
+                            transform: translate(7%,-6%);
+                        width: 111%;
+                        
+                        }
+                        
+                        
+                        #top7{
+                        
+                        
+                        
+                            left: 50%;
+                            right: 50%;
+                            transform: translate(2%,-6%);
+                        width: 111%;
+                        
+                        }
+                            
+.top14{
+
+margin-left: 68%;
+
+
+
+}
+
+#top17{
+
+margin-left: 289px;
+width: 55%!important;
+
+}
+
+
+#top18{
+
+margin-left: 171px;
+
+
+
+
+}
+
+
+
+#to21{
+
+    margin-left: 289px;
+    width: 55%!important;
+    
+    }
+    
+    
+    #to22{
+    
+    margin-left: 171px;
+    width: 200px;
+    
+    
+    
+    }
+    
+
+
+
+                    }
+
+                
+                    @media (min-width: 787px) and (max-width: 986px) {
+
+
+
+                        .tip2{
+
+                            width: 100%;
+                            margin-left: -226px;
+                            
+                            
+                            
+                            }
+                            
+
+                        #top6{
+
+
+                            left: 50%;
+                            right: 50%;
+                            transform: translate(7%,-6%);
+                        width: 111%;
+                        
+                        }
+                        
+                        
+                        #top7{
+                        
+                        
+                        
+                            left: 50%;
+                            right: 50%;
+                            transform: translate(2%,-6%);
+                        width: 111%;
+                        
+                        }
+                            
+.top14{
+
+margin-left: 68%;
+
+
+
+}
+
+#top17{
+
+margin-left: 289px;
+width: 55%!important;
+
+}
+
+
+#top18{
+
+margin-left: 171px;
+
+
+
+
+}
+
+
+
+#to21{
+
+    margin-left: 289px;
+    width: 55%!important;
+    
+    }
+    
+    
+    #to22{
+    
+    margin-left: 171px;
+    width: 200px;
+    
+    
+    
+    }
+    
+
+
+
+                    }
+
+                
+
+
+                    @media (min-width: 987px) and (max-width: 1200px) {
+
+
+                        .tip2{
+
+                            width: 100%;
+                            margin-left: -226px;
+                            
+                            
+                            
+                            }
+                            
+
+                        #top6{
+
+
+                            left: 50%;
+                            right: 50%;
+                            transform: translate(7%,-6%);
+                        width: 111%;
+                        
+                        }
+                        
+                        
+                        #top7{
+                        
+                        
+                        
+                            left: 50%;
+                            right: 50%;
+                            transform: translate(2%,-6%);
+                        width: 111%;
+                        
+                        }
+                            
+.top14{
+
+margin-left: 46%;
+
+
+
+}
+
+#top17{
+
+margin-left: 289px;
+width: 55%!important;
+
+}
+
+
+#top18{
+
+margin-left: 171px;
+
+
+
+
+}
+
+
+
+.to19{
+
+transform: translate(20%,0%);
+
+
+
+}
+
+
+.top15{
+
+    transform: translate(20%,0%);
+    
+    
+    
+    }
+
+
+#to21{
+
+    
+    margin-left: 289px;
+    width: 55%!important;
+    
+    }
+    
+    
+    #to22{
+    
+    margin-left: 171px;
+    width: 200px;
+    
+    
+    
+    }
+    
+
+
+
+                    }
+
+
+
+
+.op14{
+
+    font-family: 'Montserrat', sans-serif;
+text-align: center;
+margin-top: 55px;
+
+
+}
+
+
+
+                    #top23{
+
+                        height: 58px;
+                        width: 527px;
+                        margin-top: 45px;
+                        border-radius: 15px;
+                        margin-left: 32%;
+                        padding-left: 15px;
+                        
+                                    }
+                                
+
+
+                                    
+
+    #top26{
+
+        margin-left: 123%;
+        width: 325px;
+        height: 58px;
+        border-radius: 15px;
+        padding-left: 15px;
+        
+        
+        
+            }
+        
+            
+            #top27{
+        
+              
+        margin-left: 142%;
+        width: 325px;
+        height: 58px;
+        border-radius: 15px;
+        padding-left: 15px;
+        
+        
+                
+                
+                    }
+        
+        
+                    .top24{
+        
+        display: flex;
+        flex-direction: row;
+        margin-top: 30px;
+        
+        
+        
+        
+                    }
+
+                    .btn002{
+
+height: 45px;
+width: 225px;
+background-color: #006C9A;
+color: white;
+border-radius: 15px;
+margin-left: 40%;
+margin-top: 52px;
+
+
+                    }
+
+                    @media (min-width: 0px) and (max-width: 576px) {
+
+                    
+.op14{
+
+margin-left: -9%!important;
+
+
+}
+
+
+
+                    #top23{
+
+width: 100%!important;
+margin-left:  0%;
+
+
+                    }
+                    
+
+                    #top26{
+
+
+margin-left: 10%;
+width: 100%;
+
+                    }
+                    
+                    
+                   
+                    #top27{
+
+
+                        margin-left: 28%;
+                        width: 100%;
+
+                        
+                                            } 
+
+
+
+                                            .btn002{
+margin-left: 18%;
+
+
+
+
+                                            }
+                    
+                    
+                    
+                    }
+
+
+
+                    
+                    @media (min-width: 577px) and (max-width: 1100px) {
+
+                    
+                        .op14{
+                        
+                        margin-left: -9%!important;
+                        
+                        
+                        }
+                        
+                        
+                        
+                                            #top23{
+                        
+                        width: 100%!important;
+                        margin-left:  0%;
+                        
+                        
+                                            }
+                                            
+                        
+                                            #top26{
+                        
+                        
+                        margin-left: 10%;
+                        width: 100%;
+                        
+                                            }
+                                            
+                                            
+                                           
+                                            #top27{
+                        
+                        
+                                                margin-left: 28%;
+                                                width: 100%;
+                        
+                                                
+                                                                    } 
+                        
+                        
+                        
+                                                                    .btn002{
+                        margin-left: 18%;
+                        
+                        
+                        
+                        
+                                                                    }
+                                            
+                                            
+                                            
+                                            }
